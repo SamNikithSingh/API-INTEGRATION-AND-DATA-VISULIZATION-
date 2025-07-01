@@ -79,12 +79,16 @@ Edit
 Run the cells to see the visual output.
 You can change "Madurai" to any other city in the function geocode_location("YourCity").
 
-*OUTPUT*
-
-
 *Future Scope*
+
 Add interactive maps using folium or plotly.
 Integrate historical weather data.
 Build a GUI using Tkinter or a web dashboard with Streamlit.
 
-*output*
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/17bdaa7a-667d-4ce6-aff2-4c98653977b5)
+![Image](https://github.com/user-attachments/assets/dcdd08a5-42e6-4571-85e1-eca371848780)
+![Image](https://github.com/user-attachments/assets/d9274e04-76b9-4f7e-8d12-cc75c1c828ff)
+
+
